@@ -11,8 +11,7 @@ Prova a assegnare valori di tipo diverso e osserva l’errore di TypeScript.
 
 ### 5) Crea una funzione `saluta` che accetti un parametro `nome` di tipo string, opzionale. Se non è fornito deve usare il default 'ospite'.
 
-### 6) Implementa una funzione `media` che accetti un numero variabile di argomenti (rest parameter) e ritorni la media. 
-Tipizza tutto correttamente.
+### 6) Implementa una funzione `media` che accetti un numero variabile di argomenti (rest parameter) e ritorni la media. Tipizza tutto correttamente.
 
 ### 7) Definisci un’interfaccia `Task` con proprietà `id`, `text` e `done`. Crea un array di Task e inizializzalo con due oggetti.
 
